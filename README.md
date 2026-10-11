@@ -5,7 +5,7 @@
 
 ### About me
 
-  &nbsp; 🔭 &nbsp; Currently building **![portfolio](https://github.com/anawooj/anawooj.github.io)**\
+  &nbsp; 🔭 &nbsp; Currently building **image segmentation app** powered by neural networks\
   &nbsp; 🌱 &nbsp; Currently learning **Unity and game development**\
   &nbsp; 🧪 &nbsp; Experimenting with **Angular**\
   &nbsp; 🛠️ &nbsp; Currently improving my understanding of software architecture, testing and clean code\
