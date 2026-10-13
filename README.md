@@ -1,5 +1,5 @@
 <h3>Hi there! 👋</h3>
-<p>My name is Alex, an undergrad computer science student focused on full-stack development.</p>
+<p>My name is Alex, an undergrad computer science student based in Poland, focused on full-stack development.</p>
 
 <a href="https://anawooj.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/anawoj/">Linkedin</a> · <a href="mailto:#">Email me</a>
 
