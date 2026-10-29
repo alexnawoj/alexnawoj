@@ -1,7 +1,7 @@
 <h3>Hi there! 👋</h3>
 <p>My name is Alex, an undergrad computer science student based in Poland, focused on full-stack development.</p>
 
-<a href="https://alexnawoj.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/anawoj/">Linkedin</a> · <a href="mailto:#">Email me</a>
+<a href="https://alexnawoj.github.io/">Portfolio</a> · <a href="https://www.linkedin.com/in/anawoj/">Linkedin</a> · <a href="mailto:alex.nawoj@protonmail.com">Email me</a>
 
 ### About me
 
